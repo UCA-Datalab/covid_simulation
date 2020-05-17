@@ -175,7 +175,7 @@ Many thanks to Fermín Mallor for guidelines and feedback.
 
 ## License
 
-<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nd-nc/2.0/jp/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Covid Occupancy Simulation</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/UCA-Datalab" property="cc:attributionName" rel="cc:attributionURL">UCA Datalab</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/UCA-Datalab/covid_occupancy_simulation" rel="dct:source">https://github.com/UCA-Datalab/covid_occupancy_simulation</a>.
+<a rel="license" href="https://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://licensebuttons.net/l/by-nd-nc/2.0/jp/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">Covid Occupancy Simulation</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/UCA-Datalab" property="cc:attributionName" rel="cc:attributionURL">UCA Datalab</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution 4.0 International License</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/UCA-Datalab/covid_simulation" rel="dct:source">https://github.com/UCA-Datalab/covid_simulation</a>.
 
 
 
@@ -188,6 +188,6 @@ Many thanks to Fermín Mallor for guidelines and feedback.
   year = {2020},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/UCA-Datalab/covid_occupancy_simulation}}
+  howpublished = {\url{https://github.com/UCA-Datalab/covid_simulation}}
 }
 ```
