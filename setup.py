@@ -29,7 +29,7 @@ setuptools.setup(
         'kiwisolver==1.2.0',
         'lxml==4.5.0',
         'matplotlib==3.2.1',
-        'numpy==1.18.2',
+        'numpy==1.22.0',
         'pandas==1.0.3',
         'pyparsing==2.4.7',
         'python-dateutil==2.8.1',
