@@ -27,7 +27,7 @@ setuptools.setup(
         'cycler==0.10.0',
         'ezodf==0.3.2',
         'kiwisolver==1.2.0',
-        'lxml==4.5.0',
+        'lxml==4.9.1',
         'matplotlib==3.2.1',
         'numpy==1.18.2',
         'pandas==1.0.3',
