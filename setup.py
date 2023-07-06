@@ -34,7 +34,7 @@ setuptools.setup(
         'pyparsing==2.4.7',
         'python-dateutil==2.8.1',
         'pytz==2019.3',
-        'scipy==1.4.1',
+        'scipy==1.10.0',
         'six==1.14.0'
     ]
 )
